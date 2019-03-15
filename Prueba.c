@@ -4,8 +4,12 @@
 #define VARIABLE 0
 #define VARIABLE 1
 #define VARIABLE 2
+#define VARIABLE 3
+#define VARIABLE 4
+#define VARIABLE 5
 
-#define PATH "proc\kmsg"
+int suma(int a, int b);
+
 int main (void)
 {
 	printf("Hola");
